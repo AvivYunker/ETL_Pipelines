@@ -3,7 +3,7 @@ import json
 import requests
 from datetime import datetime
 
-TOKEN = "30a3836d40a27d400d4e8218229d173e"
+TOKEN = "NONE"
 LAT = "32.10846916666665"
 LON = "34.96419472222222"
 
